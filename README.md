@@ -7,7 +7,7 @@
   <a href="https://github.com/tmcybers/Faker"><img src="Faker.png" width="500px" alt="faker"></a>
 </h1>
 
-<h4 align="center"> ♛ name,email,phone_number,address ♛  | ☬ C0D3D ßÿ тм¢увєя ☬ </h4>
+<h4 align="center"> ♛ Name, Email, Phone_number, Address ♛  | ☬ C0D3D ßÿ тм¢увєя ☬ </h4>
 
 ---
 
