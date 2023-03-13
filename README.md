@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/tmcybers/gmailHack"><img src="Faker.png" width="500px" alt="gmailHack"></a>
+  <a href="https://github.com/tmcybers/Faker"><img src="Faker.png" width="500px" alt="faker"></a>
 </h1>
 
 <h4 align="center"> ♛ Live a Fake Life ♛  | ☬ C0D3D ßÿ тм¢увєя ☬ </h4>
@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/tmcybers/Latest-Cyber-News/"><img src="https://img.shields.io/badge/python3-yellowgreen">
-<a href="https://github.com/tmcybers/Latest-Cyber-News/releases/tag/latest_cyber_news"><img src="https://img.shields.io/badge/downloads-36734-green">
+<a href="https://github.com/tmcybers/Latest-Cyber-News/releases/tag/latest_cyber_news"><img src="https://img.shields.io/badge/downloads-6734-green">
 <a href="https://github.com/tmcybers/Latest-Cyber-News/releases/tag/latest_cyber_news"><img src="https://img.shields.io/badge/releases-v.0.1.1-red">
 <a href="https://github.com/tmcybers/Latest-Cyber-News/releases/tag/latest_cyber_news"><img src="https://img.shields.io/badge/contributors-☬тм¢увєя ☬-orange">
 <a href="https://github.com/tmcybers/Latest-Cyber-News/issues"><img src="https://img.shields.io/badge/open%20issues-0-blue">
