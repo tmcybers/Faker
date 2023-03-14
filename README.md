@@ -30,6 +30,15 @@
   
 ---
 
+## Main Concept
+
+*Faker will generate fake date for you, and will save it to a csv file (table structured format) inside the \dir you are*
+
+**Faker is witten to generate 10 random ['name', 'email', 'phone_number', 'address']**
+
+`Future development and re-written is posible`
+
+#### License GPL-3
 
 
 
