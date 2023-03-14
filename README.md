@@ -30,7 +30,7 @@
   
 ---
 
-## Sockpuppet Accounts
+## 🪆 Sockpuppet Accounts 🪆
  
 ### Main Concept
 
