@@ -51,6 +51,8 @@
 
 ```
 python3 Faker.v.1.0.0.py
+
+10 fake entries written to fake_data.csv
 ```
 
 
