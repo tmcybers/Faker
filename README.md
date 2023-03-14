@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://github.com/tmcybers/Latest-Cyber-News/"><img src="https://img.shields.io/badge/python3-yellowgreen">
 <a href="https://github.com/tmcybers/Latest-Cyber-News/releases/tag/latest_cyber_news"><img src="https://img.shields.io/badge/downloads-6734-green">
-<a href="https://github.com/tmcybers/Latest-Cyber-News/releases/tag/latest_cyber_news"><img src="https://img.shields.io/badge/releases-v.0.1.1-red">
+<a href="https://github.com/tmcybers/Latest-Cyber-News/releases/tag/latest_cyber_news"><img src="https://img.shields.io/badge/releases-v.1.0.0-red">
 <a href="https://github.com/tmcybers/Latest-Cyber-News/releases/tag/latest_cyber_news"><img src="https://img.shields.io/badge/contributors-☬тм¢увєя ☬-orange">
 <a href="https://github.com/tmcybers/Latest-Cyber-News/issues"><img src="https://img.shields.io/badge/open%20issues-0-blue">
 <a href="https://github.com/tmcybers/Latest-Cyber-News/discussions"><img src="https://img.shields.io/badge/discussions-0-orange">
