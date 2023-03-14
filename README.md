@@ -30,7 +30,9 @@
   
 ---
 
-## Main Concept
+## Sockpuppet Accounts
+ 
+### Main Concept
 
 *Faker will generate fake date for you, and will save it to a csv file (table structured format) inside the \dir you are*
 
