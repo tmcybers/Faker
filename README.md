@@ -58,7 +58,7 @@ python3 Faker.v.1.0.0.py
 
 ## Extra SockPuppy
 
-* We need photos, but of someone who doesn't exist, we don't steal photos, it's the law...!
+* We need photos 🃏 of someone who doesn't exist thats the key!, we don't steal photos, it's the law...!
 
 [this-person-does-not-exist](https://this-person-does-not-exist.com/en)
 
