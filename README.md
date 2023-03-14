@@ -30,7 +30,9 @@
   
 ---
 
-## 🪆 Sockpuppet Accounts 🪆
+ <h4 align="center"> 🪆 Sockpuppet Accounts 🪆 </h4>
+ 
+
  
 ### Main Concept
 
