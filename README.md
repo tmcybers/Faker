@@ -66,6 +66,6 @@ python3 Faker.v.1.0.0.py
 
 
 
-
+[!] Don't forget to erase your tracks when using online platforms [!]
 
 ⚒️ I am not responsible for the misuse of my tools ⚒️
